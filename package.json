@@ -1,0 +1,8 @@
+{
+  "name": "github-slideshow",
+  "private": true,
+  "description": "Slides for the GitHub Learning Lab course, served by Jekyll with reveal.js",
+  "dependencies": {
+    "reveal.js": "^5.2.1"
+  }
+}
